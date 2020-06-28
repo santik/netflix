@@ -1,4 +1,4 @@
-##Combination of applications to demonstrate work with Netflix Eureka with Spring Cloud
+### Combination of applications to demonstrate work with Netflix Eureka with Spring Cloud
 
 
 Repository contains 3 application:
